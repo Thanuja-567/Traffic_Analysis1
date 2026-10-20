@@ -1,0 +1,24 @@
+{
+    "total_visits": 474620,
+    "average_visits_per_day": 5273.56,
+    "peak_hour": "13:00",
+    "average_visits_at_peak_hour": 406.81,
+    "campaign_date": "2025-04-22",
+    "campaign_day_visits": 12270,
+    "median_daily_visits": 5375.0,
+    "campaign_day_vs_median": 2.28,
+    "traffic_source_share_percent": {
+        "Direct": 23.09,
+        "Email": 13.8,
+        "Organic": 36.37,
+        "Paid": 10.51,
+        "Social": 16.23
+    },
+    "bounce_rate_percent": {
+        "Direct": 34.99,
+        "Email": 29.97,
+        "Organic": 42.01,
+        "Paid": 55.15,
+        "Social": 68.21
+    }
+}
